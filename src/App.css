@@ -137,15 +137,21 @@ button {
 
 .products {
   padding: 40px;
+  align-items: baseline;
 }
 
 .products img {
   width: 50%;
+  align-items: center;
 }
 
 button {
   font-size: 20px;
   padding: 10px;
+}
+
+.products button {
+  width: 55%;
 }
 
 header {
